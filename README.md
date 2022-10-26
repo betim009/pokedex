@@ -7,6 +7,7 @@
 - Foi utilizado a seguinte api: https://pokeapi.co/
 
 - endpoint: https://pokeapi.co/api/v2/pokemon/${i}
+  substitua ${i} por um número de 1 - 150. exemplo: https://pokeapi.co/api/v2/pokemon/1
 
 - Js puro
 
